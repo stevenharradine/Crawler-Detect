@@ -645,6 +645,7 @@ class Crawlers extends AbstractProvider
         'Symfony2 BrowserKit',
         'SynHttpClient-Built',
         'Sysomos',
+        'Swiftbot',
         'T0PHackTeam',
         'Tarantula\/',
         'Taringa UGC',
